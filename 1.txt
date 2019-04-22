@@ -1,0 +1,8 @@
+x=0;
+while(aaa>222){
+print x;
+x=x+1;
+print asdfs;
+x=x+1;
+}
+

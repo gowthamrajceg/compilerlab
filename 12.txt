@@ -1,0 +1,3 @@
+#define sum(n) : n*n
+#define a() : 55
+

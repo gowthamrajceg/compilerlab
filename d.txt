@@ -1,0 +1,16 @@
+a=7 
+b=6
+c=3 
+d=2
+e=4
+abcde+**+
++a*b*c+de
++/be*c*d-ae
+de*c/dae-*+
+ab-cbd/*+
++-ab*c/ed
+ab-ecd+*+
++-ab*e+cd
+++a*a-bc*-bcb
+aabc*-+bc+d*+
+
